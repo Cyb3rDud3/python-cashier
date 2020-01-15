@@ -7,7 +7,7 @@ while True:
    prices = {"small popcorn" : 3, "medium popcorn" : 5,
              "large popcorn" : 8, "small drink" : 1,
               "medium drink" : 2, "large drink" : 3 }
-
+# TODO == replace dict with db use 
   
    def calc(money, prices):
       try:
