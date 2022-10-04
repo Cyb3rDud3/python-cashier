@@ -1,4 +1,3 @@
 # python-cashier
-well. not the best cashier ever, actually i'm still working on it.
+Just a weird python project written by me when i was 16. no real intentions. no pep8. i was just learning i guess
 
-final results will be a actuall cashier. with gui, db, and more features. 
